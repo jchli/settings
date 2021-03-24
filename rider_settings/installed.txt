@@ -1,0 +1,3 @@
+Abc.MoqComplete.Rider
+IdeaVIM
+com.microsoft.vso.idea
